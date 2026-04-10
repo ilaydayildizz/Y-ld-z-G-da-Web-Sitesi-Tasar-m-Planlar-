@@ -43,9 +43,9 @@ Yıldız Gıda, 2000 yılında İstanbul Küçükyalı'da kurulan ve hiçbir kat
 
 Bu tasarım projesi hakkında geri bildirimde bulunmak veya işbirliği yapmak isterseniz benimle iletişime geçebilirsiniz.
 
-* **GitHub:** [@KullaniciAdiniz](https://github.com/KullaniciAdiniz)
-* **LinkedIn:** [Profil Linkiniz](#)
-* **E-posta:** [E-posta Adresiniz]
+
+* **LinkedIn:** [https://www.linkedin.com/in/ilayda-y%C4%B1ld%C4%B1z-a666aa25b/?skipRedirect=true](#)
+* **E-posta:** [ilaydayldz113@gmail.com]
 
 ---
 *Bu proje tamamen bir tasarım portfolyosu çalışmasıdır.*
