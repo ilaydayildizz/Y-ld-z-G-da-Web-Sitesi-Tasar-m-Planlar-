@@ -1,51 +1,64 @@
-# 🌟 Yıldız Gıda - E-Ticaret Web Arayüzü ve Kurumsal Kimlik Tasarımı
+# 🌟 Yıldız Gıda - Kurumsal Kimlik ve E-Ticaret Web Arayüz Tasarımı
 
-Bu depo, İstanbul'da faaliyet gösteren ve yöresel, doğal gıda ürünleri sunan **Yıldız Gıda** için hazırladığım web sitesi arayüz (UI) ve kurumsal kimlik (Logo) tasarımlarını içermektedir.
+Bu proje, yöresel ve doğal gıda ürünleri satışı yapan **Yıldız Gıda** markası için sıfırdan tasarlanmış uçtan uca marka kimliği ve web sitesi arayüzü (UI) çalışmalarını içermektedir. 
 
-## 📌 Proje Hakkında
+Geleneksel lezzetleri modern ve güvenilir bir kurumsal yapıyla sunmayı hedefleyen marka için hem dijital ortamda (web sitesi) hem de fiziksel ortamda (basılı materyaller) tutarlı bir tasarım dili oluşturulmuştur.
 
-Yıldız Gıda, 2000 yılında İstanbul Küçükyalı'da kurulan ve hiçbir katkı maddesi içermeyen, %100 doğal ürünleri tüketiciyle buluşturmayı misyon edinmiş bir işletmedir. Bu proje kapsamında, markanın geleneksel değerlerini modern bir e-ticaret deneyimiyle harmanlayan uçtan uca bir web arayüzü tasarlanmıştır. Markanın logosundan ürün listeleme sayfalarına kadar tüm görsel dil tarafımca oluşturulmuştur.
+## 📌 Proje Kapsamı
 
-## ✨ Tasarım Özellikleri ve Kapsamı
+Tasarım süreci iki ana aşamada tamamlanmıştır:
 
-* **Kurumsal Kimlik & Logo:** Markanın güvenilirliğini ve dinamizmini yansıtan özgün logo tasarımı.
-* **Renk Paleti:** Doğallığı temsil eden turkuaz/yeşil tonları ile iştah açıcı ve sıcak hissettiren turuncu/kırmızı tonlarının dengeli kullanımı.
-* **Kullanıcı Dostu Arayüz (UI):** Temiz, kolay okunabilir ve alışveriş deneyimini hızlandıran minimalist tasarım anlayışı.
+### 1. Kurumsal Kimlik Tasarımı
+Markanın vizyonunu yansıtan, akılda kalıcı ve kurumsal bir duruş sergileyen basılı materyaller tasarlanmıştır.
+* **Özgün Logo Tasarımı** (Kırmızı ve lacivert tonlarında, markanın ismine atıfta bulunan yıldız formlu dinamik yapı)
+* **Kartvizit Tasarımı** (Ön ve arka yüz, iletişim ve harita bilgileriyle)
+* **Antetli Kağıt**
+* **Kurumsal Zarf**
+* **Dosya Kapağı**
 
-### 📱 Tasarlanan Sayfalar
-
-1.  **Anasayfa:** * Dinamik kategori yönlendirmeleri (Bakliyat, Baharat, Tahıllar vb.)
-    * Geniş ve dikkat çekici "Hero" görsel alanı.
-    * "Haftanın Yıldızları" konseptiyle öne çıkan ürünlerin sergilendiği vitrin.
-2.  **Ürünler Sayfası:** * Ürün görsellerinin, fiyatların ve porsiyon/adet seçimlerinin net bir şekilde sunulduğu, "Sepete Ekle" odaklı ızgara (grid) yapısı.
-3.  **Hakkımızda Sayfası:** * Markanın kuruluş hikayesinin ve vizyonunun anlatıldığı, harita entegrasyonu ile fiziksel mağaza erişimini kolaylaştıran kurumsal sayfa.
-4.  **Kullanıcı Giriş Sayfası:** * Kullanıcıları yormayan, sade ve güven veren üye giriş/kayıt ekranı.
-
-## 🖼️ Ekran Görüntüleri
-
-*(Not: Tasarım görsellerini tam boyutta incelemek için resimlerin üzerine tıklayabilirsiniz.)*
-
-| Anasayfa | Ürünler (Katalog) |
-| :---: | :---: |
-| <img src="images/Artboard_3.jpg" alt="Anasayfa Tasarımı" width="400"/> | <img src="images/Artboard_1.jpg" alt="Ürünler Tasarımı" width="400"/> |
-
-| Hakkımızda | Kullanıcı Girişi |
-| :---: | :---: |
-| <img src="images/Artboard_2.jpg" alt="Hakkımızda Sayfası" width="400"/> | <img src="images/Artboard_5.jpg" alt="Kullanıcı Giriş Sayfası" width="400"/> |
-
-## 🛠️ Kullanılan Araçlar ve Yaklaşım
-
-* **UI/UX Tasarım:** [Kullandığınız aracı yazın, örn: Figma / Adobe XD / Illustrator]
-* **Grafik & Logo Tasarımı:** [Kullandığınız aracı yazın, örn: Adobe Illustrator / Photoshop / Canva]
-* **Odak Noktaları:** Tipografi Hiyerarşisi, E-ticaret Dönüşüm Optimizasyonu, Marka Tutarlılığı
-
-## 📬 İletişim
-
-Bu tasarım projesi hakkında geri bildirimde bulunmak veya işbirliği yapmak isterseniz benimle iletişime geçebilirsiniz.
-
-
-* **LinkedIn:** [https://www.linkedin.com/in/ilayda-y%C4%B1ld%C4%B1z-a666aa25b/?skipRedirect=true](#)
-* **E-posta:** [ilaydayldz113@gmail.com]
+### 2. Web Arayüzü (UI) Tasarımı
+Kullanıcı deneyimi (UX) ön planda tutularak, e-ticaret dinamiklerine uygun bir arayüz tasarlanmıştır.
+* **Anasayfa:** Kampanya slider'ı, "Haftanın Yıldızları" vitrini ve hızlı kategori erişimi.
+* **Ürün Kataloğu (Baklagiller vb.):** Temiz ürün listeleme, net fiyatlandırma ve hızlı sepet yönetimi.
+* **Hakkımızda Sayfası:** Marka hikayesi, görsel galeri ve fiziksel mağaza için harita entegrasyonu.
+* **Kullanıcı Girişi:** Sade ve kullanıcıyı yormayan üyelik/giriş paneli.
 
 ---
-*Bu proje tamamen bir tasarım portfolyosu çalışmasıdır.*
+
+## 🎨 Renk Paleti ve Tasarım Dili
+
+* **Kırmızı & Lacivert:** Kurumsal kimlikte markanın ciddiyetini, güvenilirliğini ve enerjisini yansıtmak için tercih edilmiştir.
+* **Krem/Bej Arka Planlar:** Doğallığı ve organikliği hissettirmek amacıyla özellikle basılı materyallerde fon olarak kullanılmıştır.
+* **Turkuaz & Turuncu (Web):** Dijital ortamda kullanıcıyı eyleme geçmeye (sepete ekle, üye ol) teşvik etmek ve iştah açıcı bir atmosfer yaratmak için web arayüzünde tamamlayıcı renkler olarak konumlandırılmıştır.
+
+---
+
+## 🖼️ Tasarım Ön İzlemeleri
+
+### 🏢 Kurumsal Kimlik Materyalleri
+
+| Logo & Kartvizit | Antetli Kağıt & Zarf & Dosya Kapağı |
+| :---: | :---: |
+| <img src="images/LOGO.jpg" alt="Yıldız Gıda Logo" width="400"/><br><br><img src="images/KARTV%C4%B0Z%C4%B0T.jpg" alt="Kartvizit" width="400"/> | <img src="images/ANTETL%C4%B0%20KA%C4%9EIT.jpg" alt="Antetli Kağıt" width="200"/> <img src="images/zarf.jpg" alt="Zarf" width="200"/><br><br><img src="images/dosya%20kapak.jpg" alt="Dosya Kapağı" width="400"/> |
+
+### 💻 Web Arayüzü Sayfaları
+
+| Anasayfa | Ürünler Sayfası |
+| :---: | :---: |
+| <img src="images/anasayfa%20sayfa%20tasar%C4%B1m%C4%B1.jpg" alt="Anasayfa" width="400"/> | <img src="images/baklagiller%20sayfa%20tasar%C4%B1m%C4%B1.jpg" alt="Ürünler Sayfası" width="400"/> |
+
+| Hakkımızda Sayfası | Kullanıcı Girişi |
+| :---: | :---: |
+| <img src="images/hakk%C4%B1m%C4%B1zda%20sayfa%20tasar%C4%B1m%C4%B1.jpg" alt="Hakkımızda" width="400"/> | <img src="images/kullan%C4%B1c%C4%B1%20giri%C5%9Fi%20sayfa%20tasar%C4%B1m%C4%B1.jpg" alt="Kullanıcı Girişi" width="400"/> |
+
+---
+
+## 🚀 Proje Kurulumu / İnceleme Bilgisi
+
+Bu repo yalnızca tasarım dosyalarını ve ön izlemelerini içermektedir. Tasarımların kaynak dosyalarına erişmek veya detaylı incelemek isterseniz iletişim bilgilerim üzerinden bana ulaşabilirsiniz.
+
+* **Tasarımcı:** [İlayda Yıldız]
+* **İletişim / LinkedIn:** [https://www.linkedin.com/in/ilayda-y%C4%B1ld%C4%B1z-a666aa25b/?skipRedirect=true]
+  
+
+*Bu proje, konsept bir tasarım çalışması ve portfolyo ürünüdür.*
