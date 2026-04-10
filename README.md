@@ -35,12 +35,16 @@ Kullanıcı deneyimi (UX) ön planda tutularak, e-ticaret dinamiklerine uygun bi
 
 ## 🖼️ Tasarım Ön İzlemeleri
 
+
 ### 🏢 Kurumsal Kimlik Materyalleri
 
-| Logo & Kartvizit | Antetli Kağıt & Zarf & Dosya Kapağı |
-| :---: | :---: |
-| <img src="images/LOGO.jpg" alt="Yıldız Gıda Logo" width="400"/><br><br><img src="images/KARTV%C4%B0Z%C4%B0T.jpg" alt="Kartvizit" width="400"/> | <img src="images/ANTETL%C4%B0%20KA%C4%9EIT.jpg" alt="Antetli Kağıt" width="200"/> <img src="images/zarf.jpg" alt="Zarf" width="200"/><br><br><img src="images/dosya%20kapak.jpg" alt="Dosya Kapağı" width="400"/> |
-
+| Materyal | Tasarım Ön İzleme |
+| :--- | :--- |
+| **Logo Tasarımı** | <img src="images/LOGO.jpg" alt="Yıldız Gıda Logo" width="600"/> |
+| **Kartvizit** | <img src="images/KARTV%C4%B0Z%C4%B0T.jpg" alt="Kartvizit" width="600"/> |
+| **Antetli Kağıt** | <img src="images/ANTETL%C4%B0%20KA%C4%9EIT.jpg" alt="Antetli Kağıt" width="600"/> |
+| **Kurumsal Zarf** | <img src="images/zarf.jpg" alt="Zarf" width="600"/> |
+| **Dosya Kapağı** | <img src="images/dosya%20kapak.jpg" alt="Dosya Kapağı" width="600"/> |
 ### 💻 Web Arayüzü Sayfaları
 
 | Anasayfa | Ürünler Sayfası |
