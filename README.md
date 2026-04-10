@@ -59,6 +59,7 @@ Bu repo yalnızca tasarım dosyalarını ve ön izlemelerini içermektedir. Tasa
 
 * **Tasarımcı:** [İlayda Yıldız]
 * **İletişim / LinkedIn:** [https://www.linkedin.com/in/ilayda-y%C4%B1ld%C4%B1z-a666aa25b/?skipRedirect=true]
+* **E-posta:**[ilaydayldz113@gmailcom]
   
 
 *Bu proje, konsept bir tasarım çalışması ve portfolyo ürünüdür.*
